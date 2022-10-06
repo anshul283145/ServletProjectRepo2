@@ -8,4 +8,8 @@ public class TestServlet extends HttpServlet{
 	public void destroy() {
 		
 	}
+	
+	public void doGet() {
+		//some changes
+	}
 }
